@@ -21,7 +21,7 @@
     "voxel-physical": "0.0.10",
     "voxel-region-change": "0.1.0",
     "raf": "0.0.1",
-    "three": "0.56.0",
+    "three": "0.102.1",
     "pin-it": "0.0.1",
     "aabb-3d": "0.0.0",
     "inherits": "1.0.0",
